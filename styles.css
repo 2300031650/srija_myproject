@@ -1,0 +1,46 @@
+.container{
+background-color:cadetblue;
+font-size:40px;
+font-family:'Franklin Gothic Medium';
+vertical-align: top;
+margin-right: 20px;
+text-align: center;
+}
+button{
+    border:100px;
+    border-radius: 10px;
+    color:black;
+    background-color:cadetblue;
+    font-size: 20px;
+}
+button:hover{
+    background-color:cornsilk;
+    color:darkseagreen;
+}
+body{
+    background-color:darkseagreen;
+}
+.item{
+    text-align:center;
+    font-size:30px;
+    font-style:oblique;
+}
+.item1{
+    text-align:center;
+}
+.con{
+    text-align: center;
+}
+p{
+    text-align:left;
+    font-size: xx-large;
+}
+.con1{
+    text-align:center ;
+}
+.con3{
+    text-align:center;
+}
+h3{
+    text-decoration:dotted;
+}
