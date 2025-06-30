@@ -1,5 +1,5 @@
 .container{
-background-color:aquamarine;
+background-color:lavenderblush;
 font-size:40px;
 font-family:'Franklin Gothic Medium';
 vertical-align: top;
@@ -18,7 +18,7 @@ button:hover{
     color:darkseagreen;
 }
 body{
-    background-color:aqua
+    background-color:darkturquoise;
 }
 .item{
     text-align:center;
