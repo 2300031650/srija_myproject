@@ -1,5 +1,5 @@
 .container{
-background-color:cadetblue;
+background-color:aquamarine;
 font-size:40px;
 font-family:'Franklin Gothic Medium';
 vertical-align: top;
@@ -10,7 +10,7 @@ button{
     border:100px;
     border-radius: 10px;
     color:black;
-    background-color:cadetblue;
+    background-color:antiquewhite;
     font-size: 20px;
 }
 button:hover{
@@ -18,7 +18,7 @@ button:hover{
     color:darkseagreen;
 }
 body{
-    background-color:darkseagreen;
+    background-color:aqua
 }
 .item{
     text-align:center;
@@ -40,7 +40,42 @@ p{
 }
 .con3{
     text-align:center;
+    text-decoration:underline;
+}
+h2{
+    text-align:left;
+    font-size:xx-large;
+    font-style:italic;
+    font-weight: 100;
+    
+    
 }
 h3{
-    text-decoration:dotted;
+    font-size: 20px;
+    font-family:'Lucida Sans';
+}
+.item3{
+    text-align: left;
+    font-size:xx-large;
+}
+.con4{
+    font-size:xx-large;
+    text-decoration:double;
+    text-align:left;
+}
+label{
+    font-size:x-large;
+    font-style: oblique;
+    color:darkslategray;
+    
+}
+input{
+    margin:1%;
+    border-radius: 10px;
+}
+textarea{
+    border-radius: 10px;
+}
+p1{
+    font-size:x-large;
 }
