@@ -10,12 +10,12 @@ button{
     border:100px;
     border-radius: 10px;
     color:black;
-    background-color:antiquewhite;
+    background-color:aquamarine;
     font-size: 20px;
 }
 button:hover{
-    background-color:cornsilk;
-    color:darkseagreen;
+    background-color:antiquewhite;
+    color:brown;
 }
 body{
     background-color:darkturquoise;
